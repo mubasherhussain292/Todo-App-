@@ -22,9 +22,17 @@ Welcome to **TodoApp**, an open-source notes application built using the **MVVM 
 
 ---
 
+## Screenshots
+
+### Main Features
+![Screenshot 1](images/Screenshot_2024-11-19-11-09-44-931_com.example.todoapp.jpg)
+![Screenshot 2](images/Screenshot_2024-11-19-11-09-58-013_com.example.todoapp.jpg)
+![Screenshot 3](images/Screenshot_2024-11-19-11-10-04-432_com.example.todoapp.jpg)
+
+---
+
 ## Getting Started
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-repo/TodoApp.git
-
